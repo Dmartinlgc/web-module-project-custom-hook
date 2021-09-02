@@ -1,7 +1,7 @@
 # Module Project: Composing Stateful Logic - Dark Mode
 
 This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored Form management in React. You learned what stateful logic is, how to build custom hooks, and how to compose multiple hooks together. In your project you will demonstrate proficiency of these subjects and principles by creating an application using each of these.
-
+fgdgf
 ## Instructions
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this project.**
@@ -13,7 +13,7 @@ Commit your code regularly and meaningfully. This helps you and any collaborator
 ### Description
 
 In this project you'll take this crypto currency tracker app and build two custom hooks that, when composed together, will allow users to set and persist a dark mode preference.
-
+jkdsfhkds
 ## Project Set Up
 
 - [ ] Create a forked copy of this project.
@@ -24,7 +24,7 @@ In this project you'll take this crypto currency tracker app and build two custo
 - [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
-
+sadasf
 Follow these steps for completing your project.
 
 - [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into main (student's Repository). **Please don't merge your own pull request**
